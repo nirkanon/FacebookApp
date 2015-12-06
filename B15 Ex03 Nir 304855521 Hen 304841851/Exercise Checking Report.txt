@@ -1,0 +1,9 @@
+﻿==========================Exercise Checking Report==========================
+Exercise No...........: 3
+First Student Details.: 304855521 - Nir Kanon
+Second Student Details: 304841851 - Hen Rofe Haim
+Delivery Date.........: 25 - May - 2015
+Delivered In Delay....: 
+Delay Reason..........: 
+Comments..............: We used BitmapFilters.dll which can be found at  ...\Dlls Folder, We disabled Friends and Checkins because Facebook disable those permissions
+========================End Exercise Checking Report========================
